@@ -1,3 +1,3 @@
 <?php
- echo "Github 19";
+ echo "Github";
 ?>
